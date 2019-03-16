@@ -1,0 +1,4 @@
+Crear un repositorio
+Asignarlo a git local
+Git pull
+git push origen remote
